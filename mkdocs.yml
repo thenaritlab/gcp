@@ -29,3 +29,4 @@ markdown_extensions:
 nav:
   - หน้าแรก: index.md
   - BigQuery เบื้องต้น: bigquery-basics.md
+  - Cloud Storage เบื้องต้น: cloud-storage-basics.md
